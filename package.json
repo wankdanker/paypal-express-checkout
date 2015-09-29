@@ -14,11 +14,6 @@
   },
   "author": "Nebojsa Vislavski",
   "dependencies": {
-    "body-parser": "^1.12.3",
-    "cookie-parser": "~1.0.1",
-    "express": "^4.12.3",
-    "node-uuid": "^1.4.3",
-    "serve-favicon": "^2.2.0",
     "underscore": "^1.8.3"
   },
   "bugs": {
@@ -29,7 +24,13 @@
     "example": "example",
     "test": "test"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.12.3",
+    "cookie-parser": "~1.0.1",
+    "express": "^4.12.3",
+    "node-uuid": "^1.4.3",
+    "serve-favicon": "^2.2.0"
+  },
   "keywords": [
     "paypal",
     "express",
